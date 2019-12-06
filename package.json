@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/btford/angular-markdown-directive.git"
+    "url": "git://github.com/Chinchilla-Software-Com/angular-markdown-directive.git"
+  },
+  "dependencies": {
+    "angular-sanitize": "1.7.9",
+    "showdown": "1.9.1"
   },
   "keywords": [
     "angular",
@@ -16,12 +20,12 @@
     "markdown",
     "directive"
   ],
-  "author": "Brian Ford",
+  "author": "Originally Brian Ford",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/btford/angular-markdown-directive/issues"
   },
-  "homepage": "https://github.com/btford/angular-markdown-directive",
+  "homepage": "https://github.com/Chinchilla-Software-Com/angular-markdown-directive",
   "devDependencies": {
     "karma": "^0.12.9",
     "karma-jasmine": "^0.1.5",
