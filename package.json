@@ -1,6 +1,6 @@
 {
-  "name": "angular-markdown-directive",
-  "version": "0.3.1",
+  "name": "@chinchilla-software/angular-markdown-directive",
+  "version": "0.3.2",
   "description": "simple AngularJS markdown directive with showdown",
   "main": "markdown.js",
   "scripts": {
